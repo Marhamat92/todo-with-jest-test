@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "todoappwithtest",
+    "slug": "todoappwithtest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
